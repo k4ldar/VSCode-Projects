@@ -26,12 +26,8 @@ if(y === "Blue"){
  console.log("Green Detected!");
 }
 
-//Slide 13
+let myFullName = "John Doe";
+console.log(myFullName);
 
-let xx = 32;
-
-if(xx === 9){
- console.log("True");
-} else {
- console.log("False");
-}
+let myVar = "As galinhas estão fugindo";
+console.log(myVar);
